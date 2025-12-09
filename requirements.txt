@@ -4,4 +4,3 @@ beautifulsoup4
 requests
 matplotlib
 seaborn
-sqlite3  # déjà inclus dans Python, mais au cas où
